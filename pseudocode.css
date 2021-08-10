@@ -1,0 +1,26 @@
+.heading{
+    color: chocolate;
+}
+div{
+    margin-left: 400px;
+    
+}
+
+
+
+.image-box:hover{
+
+    overflow-x: auto;
+    transform: scale(1.5);
+    
+
+}
+.image-box2:hover{
+
+    transform: scale(1.5);
+}
+
+.image-box3:hover{
+
+    transform: scale(1.5);
+}
